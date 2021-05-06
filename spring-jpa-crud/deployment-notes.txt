@@ -1,0 +1,5 @@
+> mvn clean install
+> java -jar target/spring-jpa-crud-0.0.1-SNAPSHOT.jar (jdk must match)
+> war is also same, just change in the pom.xml
+
+Actuator is also very helpful for tracking app features
